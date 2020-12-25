@@ -1,0 +1,15 @@
+After you delete the additional "x", "e", and "l", it will look like this:
+Fix these also.
+Move down to the next line:
+Delete this text with the X command.
+Position your cursor at the end of the line. You can repeatedly press the l key, or if you want to be
+really efficient you can use the $ key. Now delete all the text you can with X key. You'll find that
+only the period remains on the line:
+.
+To delete that character, press x. Now the line is empty.
+Practice deleting motions
+Move down to the next line:
+Who let the dogs out? cats
+Position your cursor one character right of the question mark. Your cursor will be in the space
+between "?" and "cats". Delete the remaining text on the line. You can use d$, or an even shorter
+version of the command D. After your edit, the line will
