@@ -49,7 +49,6 @@ dw          delete a word (forward)
 db          delete the word (back)
 dd          delete the current line
 
-
 ## Operatiow
 Example:
 operation{MOTION}
